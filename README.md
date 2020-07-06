@@ -4,7 +4,7 @@
 Impedance Control of an Inverted Pendulum actuated with a DC motor and controlled with an STM32F746G Nucleo board.
 
 ## Components
-- Nucleo Board STM32F746G
+- Nucleo Board STM32F746NG
 - Custom PCB board with H-Bridge
 - DC motor: Maxon 402912
 - Rotation encoder HEDS 5540
